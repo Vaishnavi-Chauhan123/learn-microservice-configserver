@@ -1,6 +1,8 @@
 spring:
-application:
-name: CONFIGSERVER
+ application:
+   name: CONFIGSERVER-default
+
+
 
 eureka:
   instance:
